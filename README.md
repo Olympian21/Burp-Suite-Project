@@ -38,7 +38,7 @@ Remediated vulnerabilities by uninstallilng the outdated versions of VLC and Fir
 <img src="https://i.imgur.com/nQP5XWd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Reduced the vulnerabilities to 27 remaining:  <br/>
+Reduced the vulnerabilities to 27 remaining (77% reduction):  <br/>
 <img src="https://i.imgur.com/LVnx8Gs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
