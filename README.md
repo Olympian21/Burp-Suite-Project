@@ -14,7 +14,7 @@ Installed and deployed Qualys Virtual Scanner Appliance and accessed is through 
 - <b>Qualys Cloud Platform</b>
 
 
-<h2>Program walk-through:</h2>
+<h2>Project Walk-Through:</h2>
 
 <p align="center">
 Setting up authenticated scan and entering the IP adress of the Windows 10 virtual machine: <br/>
